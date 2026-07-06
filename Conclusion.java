@@ -6,7 +6,7 @@ public class Conclusion {
     static final String USERS_FILE = "users.txt";
     public static void main(String[] args) {
         System.out.print(
-                "Welcome to Secure File Protection System\n\n Presented by:\n Muhammad Mubashir Khan SP26-BSE-048\n Ahbab Malik SP26-BSE-038\n Asma Iqbal SP26-BSE-015\n");
+                "Welcome to Secure File Protection System");
         System.out.print("\n*************************************************\n");
         int choice;
         do {
